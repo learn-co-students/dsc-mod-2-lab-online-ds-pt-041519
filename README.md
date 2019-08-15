@@ -26,7 +26,7 @@ Upon completion of this lab, each unique team in this dataset should have a reco
 * The name of the team
 * The total number of goals scored by the team during the 2011 season
 * The total number of wins the team earned during the 2011 season
-* A histogram visualization of the team's wins and losses for the 2011 season (store the visualization directly)
+* A histogram visualization of the team's wins and losses for the 2011 season (store the visualization directly by assigning it to a variable)
 * The team's win percentage on days where it was raining during games in the 2011 season. 
 
 #### Getting the Weather Data
