@@ -3,7 +3,7 @@
 
 ## Introduction
 
-For today's section, we're going to work on a single big lab to apply everything we've learned in Module 2!
+For today's section, we're going to work on a single big lab to apply everything we've learned in Mod 2!
 
 ## About This Lab
 
