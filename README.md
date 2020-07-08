@@ -1,5 +1,5 @@
 
-# Module 2 Summative Lab
+# Scraping and Storing your Data - Lab
 
 ## Introduction
 
